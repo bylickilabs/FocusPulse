@@ -91,6 +91,12 @@ FocusPulse/
 │   └── storage.js
 ```
 
+<br>
+
+---
+
+<br>
+
 > 📤 CSV-Export
   - Mit einem Klick erhältst du eine .csv mit:
 
