@@ -126,3 +126,14 @@ self-monitoring
 offline-webapp
 minimal-ui
 ```
+
+<br>
+
+---
+
+<br>
+
+📄 Lizenz
+MIT License [LICENSE](LICENSE)
+
+<br>
