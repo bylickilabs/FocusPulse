@@ -1,7 +1,7 @@
 |[► FocusPulse Pro ◄](https://github.com/bylickilabs/FocusPulse-Pro)
 |---|
 
-# 🧠 FocusPulse – Der minimalistische Konzentrationstracker im Browser
+### 🧠 FocusPulse – Der minimalistische Konzentrationstracker im Browser
 
 ![HTML5](https://img.shields.io/badge/HTML5-Active-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript) | ![Chart.js](https://img.shields.io/badge/Chart.js-integrated-%2300fff7?style=for-the-badge) | ![LocalStorage](https://img.shields.io/badge/Storage-local-orange?style=for-the-badge) | ![Responsive](https://img.shields.io/badge/Responsive-Ready-green?style=for-the-badge) | ![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 |---|---|---|---|---|---|
